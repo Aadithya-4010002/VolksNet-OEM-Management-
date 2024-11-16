@@ -176,7 +176,7 @@ Frontend Application: http://localhost:3000
 API Documentation: http://localhost:5000/api-docs
 
 ## 📜 License
-Distributed under the MIT License. See LICENSE.txt for more information.
+Distributed under the MIT License. See  [LICENSE.txt](./LICENSE.txt) for more information.
 
 ## 📞 Contact
 **Team Members:**
