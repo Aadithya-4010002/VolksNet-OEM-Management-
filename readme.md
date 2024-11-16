@@ -40,6 +40,31 @@
 - Enables users to input custom parameters for precise, scenario-based forecasts.
 - Adapts to unique business requirements, offering personalized insights.
 
+### 📸 Screenshots
+### Dashboard Overview and Demand Forecasting
+<div align="center">
+  <img src="public/1.jpg" alt="Dashboard Overview" width="45%" />
+  <img src="public/2.jpg" alt="Demand Forecasting Module" width="45%" />
+</div>
+
+### Supplier Performance Monitoring and Logistics Optimization
+<div align="center">
+  <img src="public/6.jpg" alt="Supplier Performance Monitoring" width="45%" />
+  <img src="public/4.jpg" alt="Logistics Optimization" width="45%" />
+</div>
+
+### Predictive Maintenance and Custom User Input Predictions
+<div align="center">
+  <img src="public/5.jpg" alt="Predictive Maintenance" width="45%" />
+  <img src="public/3.jpg" alt="Custom User Input Predictions" width="45%" />
+</div>
+
+### Help Section And Settings
+<div align="center">
+  <img src="public/7.jpg" alt="Predictive Maintenance" width="45%" />
+  <img src="public/8.jpg" alt="Custom User Input Predictions" width="45%" />
+</div>
+
 ## 🔍 Tech Stack
 
 - **Frontend:** React, Chart.js, TypeScript
@@ -149,40 +174,15 @@ You can now access the application and its features:
 
 Frontend Application: http://localhost:3000
 API Documentation: http://localhost:5000/api-docs
-### 📸 Screenshots
-### Dashboard Overview and Demand Forecasting
-<div align="center">
-  <img src="public/1.jpg" alt="Dashboard Overview" width="45%" />
-  <img src="public/2.jpg" alt="Demand Forecasting Module" width="45%" />
-</div>
 
-### Supplier Performance Monitoring and Logistics Optimization
-<div align="center">
-  <img src="public/6.jpg" alt="Supplier Performance Monitoring" width="45%" />
-  <img src="public/4.jpg" alt="Logistics Optimization" width="45%" />
-</div>
-
-### Predictive Maintenance and Custom User Input Predictions
-<div align="center">
-  <img src="public/5.jpg" alt="Predictive Maintenance" width="45%" />
-  <img src="public/3.jpg" alt="Custom User Input Predictions" width="45%" />
-</div>
-
-### Help Section And Settings
-<div align="center">
-  <img src="public/7.jpg" alt="Predictive Maintenance" width="45%" />
-  <img src="public/8.jpg" alt="Custom User Input Predictions" width="45%" />
-</div>
-
-
-##📜 License
+## 📜 License
 Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## 📞 Contact
 **Team Members:**
 - [Aadithya Ram](https://www.linkedin.com/in/aadiithyyya/)
-- [Yasir Tawfiq](https://www.linkedin.com/in/shaik-yasir-tawfiq)
-- [Shabnya Kishore](https://www.linkedin.com/in/y-shabanya-kishore-9a7a55249/)
+- [S.Yasir Tawfiq](https://www.linkedin.com/in/shaik-yasir-tawfiq)
+- [Y.Shabanya Kishore](https://www.linkedin.com/in/y-shabanya-kishore-9a7a55249/)
 - [Godfrey Ashwanth](https://www.linkedin.com/in/godfrey-ashwanth-34b4121b7/)
 
 **Project Repository:**
