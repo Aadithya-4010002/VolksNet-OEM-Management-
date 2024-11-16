@@ -1,4 +1,7 @@
-# 🚀 VolksNet OEM Management
+
+<div align="left">
+  
+## 🚀 VolksNet OEM Management
 
 **VolksNet OEM Management** is an AI-driven platform tailored for Original Equipment Manufacturers (OEMs) to streamline supply chain operations. By leveraging advanced AI models and real-time data integration, VolksNet offers comprehensive solutions for **demand forecasting**, **supplier performance monitoring**, and **logistics optimization**, helping OEMs tackle industry challenges with ease.
 
@@ -147,12 +150,44 @@ You can now access the application and its features:
 Frontend Application: http://localhost:3000
 API Documentation: http://localhost:5000/api-docs
 ### 📸 Screenshots
-Include your application screenshots here:
+### Dashboard Overview and Demand Forecasting
+<div align="center">
+  <img src="public/1.jpg" alt="Dashboard Overview" width="45%" />
+  <img src="public/2.jpg" alt="Demand Forecasting Module" width="45%" />
+</div>
 
-Dashboard Overview
+### Supplier Performance Monitoring and Logistics Optimization
+<div align="center">
+  <img src="public/6.jpg" alt="Supplier Performance Monitoring" width="45%" />
+  <img src="public/4.jpg" alt="Logistics Optimization" width="45%" />
+</div>
 
-Demand Forecasting
+### Predictive Maintenance and Custom User Input Predictions
+<div align="center">
+  <img src="public/5.jpg" alt="Predictive Maintenance" width="45%" />
+  <img src="public/3.jpg" alt="Custom User Input Predictions" width="45%" />
+</div>
 
-Supplier Monitoring
+### Help Section And Settings
+<div align="center">
+  <img src="public/7.jpg" alt="Predictive Maintenance" width="45%" />
+  <img src="public/8.jpg" alt="Custom User Input Predictions" width="45%" />
+</div>
 
-Logistics Optimization
+##📜 License
+Distributed under the MIT License. See LICENSE.txt for more information.
+
+## 📞 Contact
+**Team Members:**
+- [Aadithya Ram](https://www.linkedin.com/in/aadiithyyya/)
+- [Yasir Tawfiq](https://www.linkedin.com/in/shaik-yasir-tawfiq)
+- [Shabnya Kishore](https://www.linkedin.com/in/y-shabanya-kishore-9a7a55249/)
+- [Godfrey Ashwanth](https://www.linkedin.com/in/godfrey-ashwanth-34b4121b7/)
+
+**Project Repository:**
+- [GitHub: VolksNet OEM Management](https://github.com/Aadithya-4010002/VolksNet-OEM-Management-)
+</div>
+
+
+
+
