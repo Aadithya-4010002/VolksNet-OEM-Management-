@@ -47,7 +47,7 @@ function SidenavFooter() {
       <ArgonBox display="flex" flexDirection="column">
         <ArgonButton
           component={Link}
-          href="https://online.citi.com/US/ag/helptopic"
+          href=""
           target="_blank"
           rel="noreferrer"
           color="dark"
@@ -59,7 +59,7 @@ function SidenavFooter() {
         </ArgonButton>
         <ArgonButton
           component={Link}
-          href="https://www.online.citibank.co.in/citi-nri/contactus.htm"
+          href=""
           target="_blank"
           rel="noreferrer"
           color="info"
