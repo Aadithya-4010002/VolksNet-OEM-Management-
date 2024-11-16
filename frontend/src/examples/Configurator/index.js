@@ -170,7 +170,6 @@ function Configurator() {
             <ArgonBox mr={1.5}>
               <ArgonButton
                 component={Link}
-                href="https://x.com/citibank"
                 target="_blank"
                 rel="noreferrer"
                 color="dark"
@@ -181,7 +180,6 @@ function Configurator() {
             </ArgonBox>
             <ArgonButton
               component={Link}
-              href="https://www.facebook.com/citi/"
               target="_blank"
               rel="noreferrer"
               color="dark"
