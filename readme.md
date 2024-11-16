@@ -190,8 +190,8 @@ Distributed under the MIT License. See  [LICENSE.txt](./LICENSE.txt) for more in
 </div>
 
 ### 📊 Presentation
+[![View Presentation](public/Slide3.png)](https://drive.google.com/file/d/1FAtsx8Yg58Q9lVRQGd-97q9YqlfLq0aw/view?usp=sharing)
 
-[![View Presentation](https://via.placeholder.com/600x300.png?text=Click+to+View+Presentation)](https://drive.google.com/file/d/1FAtsx8Yg58Q9lVRQGd-97q9YqlfLq0aw/view?usp=sharing)
 
 
 
