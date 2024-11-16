@@ -190,7 +190,12 @@ Distributed under the MIT License. See  [LICENSE.txt](./LICENSE.txt) for more in
 </div>
 
 ### 📊 Presentation
-[![View Presentation](public/Slide3.png "Click to see the presentation")](https://drive.google.com/file/d/1FAtsx8Yg58Q9lVRQGd-97q9YqlfLq0aw/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1FAtsx8Yg58Q9lVRQGd-97q9YqlfLq0aw/view?usp=sharing" title="Click to view the presentation" style="text-decoration: none;">
+  <img src="public/Slide3.png" alt="Presentation Slide" width="800px" style="position: relative; display: block; margin: auto;">
+  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 36px; font-weight: bold; text-align: center;">
+    📈 Click Here to View the Presentation
+  </h1>
+</a>
 
 
 
