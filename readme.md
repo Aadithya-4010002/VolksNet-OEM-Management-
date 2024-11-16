@@ -174,6 +174,7 @@ API Documentation: http://localhost:5000/api-docs
   <img src="public/8.jpg" alt="Custom User Input Predictions" width="45%" />
 </div>
 
+
 ##📜 License
 Distributed under the MIT License. See LICENSE.txt for more information.
 
