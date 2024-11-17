@@ -189,10 +189,26 @@ Distributed under the MIT License. See  [LICENSE.txt](./LICENSE.txt) for more in
 - [GitHub: VolksNet OEM Management](https://github.com/Aadithya-4010002/VolksNet-OEM-Management-)
 </div>
 
-### 📊 Presentation
-<a href="https://drive.google.com/file/d/1FAtsx8Yg58Q9lVRQGd-97q9YqlfLq0aw/view?usp=sharing" title="Click to view the presentation" style="text-decoration: none;">
-  <img src="public/Slide3.png" alt="Presentation Slide" width="800px" style="position: relative; display: block; margin: auto;">
-</a>
+## 📊 Presentation and Demo Video
+
+<div style="display: flex; justify-content: space-around; align-items: center; gap: 20px;">
+
+  <div style="text-align: center;">
+    <a href="https://drive.google.com/file/d/1FAtsx8Yg58Q9lVRQGd-97q9YqlfLq0aw/view?usp=sharing" title="Click to view the presentation">
+      <strong>📑 Click for Presentation</strong><br>
+      <img src="public/Slide3.png" alt="Presentation Slide" width="400px">
+    </a>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://drive.google.com/file/d/1VGqxY3Pvj3cYE0NDCydq_I6iViwhjnD5/view?usp=sharing" title="Click to watch the demo video">
+      <strong>🎥 Click for Demo Video</strong><br>
+      <img src="public/Slide3.png" alt="Demo Video Thumbnail" width="400px">
+    </a>
+  </div>
+
+</div>
+
 
 
 
